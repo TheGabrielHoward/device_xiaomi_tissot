@@ -26,7 +26,7 @@ $(call inherit-product, vendor/hentai/config/common_telephony.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := tissot
-PRODUCT_NAME := aosp_tissot
+PRODUCT_NAME := hentai_tissot
 BOARD_VENDOR := Xiaomi
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Mi A1
